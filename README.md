@@ -27,7 +27,7 @@ This project analyses customer churn behaviour in a banking dataset using SQL an
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here)
+https://github.com/Bitsy-meu/bank-customer-churn-analysis/blob/main/dashboard_screenshot.png?raw=true
 
 ## Author
 Keerthi Kora**
